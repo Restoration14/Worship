@@ -1,0 +1,2 @@
+This software uses libraries from the FFmpeg project under the LGPLv2.1 and its source code can be downloaded at http://www.ffmpeg.org.
+FFmpeg is a trademark of Fabrice Bellard.
